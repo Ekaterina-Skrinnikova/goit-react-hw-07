@@ -3,7 +3,7 @@
   padding: 10px;
   display: flex;
   justify-content: space-between;
-  min-width: 225px;
+  min-width: 320px;
   border-radius: 6px;
   border: 2px solid dimgray;
 }

@@ -9,7 +9,7 @@ export default function ContactList() {
   return (
     <ul className={css.list}>
       {contacts.map((item) => (
-        <li key={item.id}>
+        <li className={css.item} key={item.id}>
           <Contact contact={item} />
         </li>
       ))}
