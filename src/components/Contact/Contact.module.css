@@ -1,0 +1,13 @@
+.container {
+  margin: 10px auto 10px auto;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  min-width: 225px;
+  border-radius: 6px;
+  border: 2px solid dimgray;
+}
+
+.btn {
+  background-color: rgb(197, 193, 193);
+}
